@@ -1,2 +1,2 @@
-# simplePageResponsive
-Página simples responsiva com HTML e CSS.
+# Página Simples Responsiva
+Página simples responsiva desenvolvida somente com HTML e CSS. 
